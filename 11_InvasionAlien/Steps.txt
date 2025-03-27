@@ -1,0 +1,7 @@
+El jugador controla una nave que aparece en el centro de abajo de la pantalla.
+El jugador puede mover la nave de derecha a izquierda usando las flechas y disparar usando la barra espaciadora.
+Los aliens aparecen arriban y se mueven hacia abajo.
+El jugador dispara y destruye los aliens.
+Si la flota se destruye aparece una nueva flota que se mueve más rápido.
+Si algún alien toca al jugador o el fondo de la pantalla, el jugador pierde una nave.
+Con tres naves se pierde el juego.
